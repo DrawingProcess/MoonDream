@@ -1,4 +1,4 @@
-exported_models/
+exported_models/moondream_fp16/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python
